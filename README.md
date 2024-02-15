@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey, I _am_ Arijit👋🏼 </br>
 
-<!--
-**arijitpaull/arijitpaull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me✨
+👨🏻‍💻 22-year-old software developer based in Delhi, India.</br>
 
-Here are some ideas to get you started:
+💻 Sharing my technical journey here through diverse projects.</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📒 Studied Computer Science and Engineering at SRM Institute of Science and Technology. </br>
+
+## Toolbox📦
+📱 Mobile App Development `Dart` `Flutter` `Java` `Android Studio` `Swift` `Xcode` 
+
+🌐 Web Development `HTML` `CSS` `JavaScript` `Node.JS` `Express.JS` `jQuery` `Ajax`
+
+## Contacts📭
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/arijitpaull/).
