@@ -1,4 +1,4 @@
-# Hey, I _am_ Arijit👋🏼 </br>
+# Hey, I'm Arijit👋🏼 </br> 
 
 ## About me✨
 👨🏻‍💻 22-year-old software developer based in Delhi, India.</br>
