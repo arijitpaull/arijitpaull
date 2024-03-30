@@ -8,6 +8,8 @@
 📒 Studied Computer Science and Engineering at SRM Institute of Science and Technology. </br>
 
 ## Toolbox📦
+⌨️ Proficient Languaged `C++` `C Language`
+
 📱 Mobile App Development `Dart` `Flutter` `Riverpod` `Firebase` `Java` `Android Studio` `Swift` `Xcode` 
 
 🌐 Web Development `HTML` `CSS` `JavaScript` `React` `Node.JS` `Express.JS` `jQuery` `Ajax` 
