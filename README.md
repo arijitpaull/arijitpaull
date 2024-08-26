@@ -10,11 +10,11 @@
 ## Toolbox📦
 ⌨️ Proficient Languages `C++` `C Language` `Python`
 
+🧠 Artificial Intelligence `Python` `TensorFlow` `PyTorch` `OpenAI` `Hugging Face` `BERT`
+
 📱 Mobile App Development `Dart` `Flutter` `Riverpod` `Firebase` `Java` `Android Studio` `Swift` `Xcode` 
 
 🌐 Web Development `HTML` `CSS` `JavaScript` `React.JS` `Node.JS` `Express.JS` `Next.JS` `Tailwind CSS` `jQuery` `Ajax` 
-
-🧠 Artificial Intelligence `Python` `TensorFlow` `PyTorch` `OpenAI` `Hugging Face` `BERT`
 
 ## Contacts📭
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/arijitpaull/).
