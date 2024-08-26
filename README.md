@@ -8,7 +8,7 @@
 📒 Studied Computer Science and Engineering at SRM Institute of Science and Technology. </br>
 
 ## Toolbox📦
-⌨️ Proficient Languages `C++` `C Language`
+⌨️ Proficient Languages `C++` `C Language` `Python`
 
 📱 Mobile App Development `Dart` `Flutter` `Riverpod` `Firebase` `Java` `Android Studio` `Swift` `Xcode` 
 
