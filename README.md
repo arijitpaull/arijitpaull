@@ -14,7 +14,7 @@
 
 🌐 Web Development `HTML` `CSS` `JavaScript` `React.JS` `Node.JS` `Express.JS` `Next.JS` `Tailwind CSS` `jQuery` `Ajax` 
 
-🧠 Artificial Intelligence `Python` `TensorFlow` `PyTorch` `OpenAI` `Huggingface` `BERT`
+🧠 Artificial Intelligence `Python` `TensorFlow` `PyTorch` `OpenAI` `Hugging Face` `BERT`
 
 ## Contacts📭
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/arijitpaull/).
