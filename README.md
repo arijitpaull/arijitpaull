@@ -14,7 +14,7 @@
 
 📱 Mobile App Development `Dart` `Flutter` `Riverpod` `Firebase` `Java` `Android Studio` `Swift` `Xcode` 
 
-🌐 Web Development `HTML` `CSS` `JavaScript` `React.JS` `Node.JS` `Express.JS` `Next.JS` `Tailwind CSS` `jQuery` `Ajax` 
+🌐 Web Development `JavaScript` `React` `Node` `Express` `Next` `Tailwind` 
 
 ## Contacts📭
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/arijitpaull/).
