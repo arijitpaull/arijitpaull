@@ -1,7 +1,7 @@
 # Hey, I'm Arijit👋🏼 </br> 
 
 ## About me✨
-👨🏻‍💻 22-year-old software developer based in Delhi, India.</br>
+👨🏻‍💻 23-year-old software developer based in Delhi, India.</br>
 
 💻 Sharing my technical journey here through diverse projects.</br>
 
